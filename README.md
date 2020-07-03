@@ -5,5 +5,5 @@
 DMM WebCAMP Webアプリケーション開発コース(選考コンテンツ)
 - index.html
 - omikuji.js
-- omikuji.
+- omikuji.png
 - style.css
